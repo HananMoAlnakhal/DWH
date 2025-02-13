@@ -1,1 +1,6 @@
-pip install psycopg2-binary pandas
+numpy==1.26.4
+pandas==1.5.3
+psycopg2-binary==2.9.10
+pathlib==1.0.1
+matplotlib>=3.7.0
+seaborn==0.11.2
